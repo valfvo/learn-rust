@@ -1,1 +1,1 @@
-# learn-vibe-coding
+# learn-rust
